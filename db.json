@@ -1,0 +1,25 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Hambúrguer",
+            "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+            "preco": 8.5
+          
+          },
+          {
+            "id": 2,
+            "nome": "Pizza",
+            "descricao": "Calabreza, catupiry ",
+            "preco": 20.50
+          
+          },
+          {
+            "id": 3,
+            "nome": "Caipirinha",
+            "descricao": "limão, vodka e açucar ",
+            "preco": 2.5
+          
+          }
+    ]
+}
