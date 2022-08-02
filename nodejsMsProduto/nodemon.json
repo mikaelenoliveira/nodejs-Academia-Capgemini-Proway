@@ -1,0 +1,7 @@
+{
+    "env":{
+        "PORT":8080,
+        "DATABASE_URL": "postgres://yjtftyfqjmowtf:b1152a0ac5e4b7c7978d079d2979342cfdff6b872b6d72f8c4de34a41c0bb93d@ec2-44-206-214-233.compute-1.amazonaws.com:5432/dfdtv5tupti04f"
+        
+    }
+}
